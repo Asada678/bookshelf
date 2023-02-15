@@ -1,0 +1,13 @@
+{
+    "rules": {
+        "react/jsx-uses-react": 0,
+        "react/react-in-jsx-scope": 0
+    },
+    "parserOptions": {
+      "ecmaVersion": 7, 
+      "sourceType": "module",
+      "ecmaFeatures": {
+          "jsx": true
+      }
+  }
+}
